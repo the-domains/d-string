@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[D-string]]></title>
+        <description><![CDATA[D-string]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 May 2016 10:16:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[D-String // My Baby Just Cares For Me]]></title>
+            <description><![CDATA[<article><h1>D-String // My Baby Just Cares For Me</h1><p>A rough rehearsal recording of our first play through...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dc362cd0268c100c7cd3521134f4e6b97ce0272.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1ZpFE4jdqkY&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">a736657e-eb61-4c2e-8189-bfc7271fa3f8</guid>
+            <pubDate>Tue, 17 May 2016 10:16:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
