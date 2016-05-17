@@ -1,14 +1,14 @@
-layout_spectrum: 0.6707600329536945
-typography_spectrum: 0.6921022355090827
+layout_spectrum: 0.2127231250051409
+typography_spectrum: 0.5995190541725606
 color:
   brandStrength: 0.6194379120133817
   lightness: 0.5230779338162392
   saturation: 0.14575476641766727
   rhythmicContrast: 0.05162494210526347
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
 name: D-string
